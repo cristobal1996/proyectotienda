@@ -1,0 +1,22 @@
+import React from 'react'
+import { NavLink } from 'react-router-dom'
+import { routes } from './routes'
+import { Box, Grid } from '@mui/material'
+
+export const Navbar = () => {
+  return (
+    <Grid container sx={{ width: '100%', display: 'flex', justifyContent: 'center', backgroundColor: 'red'}}>
+      <Grid item xs={11.5}>
+        <Box sx={{display: { xs: "flex", sm: "block"}}}>
+          {
+              routes.map ( ({ path, name }) => (
+                  <NavLink  to={path} key={path}>
+                          { name }
+                  </NavLink>
+              ))
+          }
+      </Box>
+      </Grid>
+    </Grid>
+  )
+}

@@ -1,0 +1,73 @@
+[
+    {
+        "id": 10,
+        "name": "MZ1 Wireless RGB Rail Gaming Mouse",
+        "descripcion": "Do you want the MZ1 mouse's performance and the freedom a wireless mouse provides? Now you no longer have to choose between performance.",
+        "img": "https://img.pccomponentes.com/articles/1063/10636713/1619-xtrfy-mz1-raton-inalambrico-gaming-rgb-16000dpi-blanco.jpg?_gl=1*1stp48y*_ga*NjgzNzI2NTg1LjE2Njk3OTY4MjM.*_ga_DJ03PRJ8R3*MTY4NTUyNzc2Ni4xOS4wLjE2ODU1Mjc3NjYuMC4wLjA.",
+        "precio": 100
+    },
+    {
+        "id": 20,
+        "name": "XTRFY M8",
+        "descripcion": "Do you want the m8 mouse's performance and the freedom a wireless mouse provides? Now you no longer have to choose between performance.",
+        "img": "https://www.wipoid.com/96938-thickbox_default/xtrfy-m8-wireless-gaming.jpg",
+        "precio": 100
+    },
+    {
+        "id": 30,
+        "name": "XTRFY M42",
+        "descripcion": "Do you want the m42 mouse's performance and the freedom a wireless mouse provides? Now you no longer have to choose between performance.",
+        "img": "https://xtremmedia.com/803517-thickbox_default/xtrfy-m42-gaming-blanco.jpg",
+        "precio": 100
+    },
+    {
+        "id": 40,
+        "name": "XTRFY M4",
+        "descripcion": "Do you want the M42 mouse's performance and the freedom a wireless mouse provides? Now you no, Now you no longer have to choose between performance.",
+        "img": "https://media.ldlc.com/r1600/ld/products/00/05/90/68/LD0005906815_1.jpg",
+        "precio": 100
+    },
+    {
+        "id": 50,
+        "name": "AJ199 Dual Mode Gaming Mouse",
+        "descripcion": "AJAZZ AJ199 is a brand new wireless dual-mode gaming mouse that is equipped with a PAW3395 high-speed optical sensor of professional quality",
+        "img": "https://ae01.alicdn.com/kf/S2c5461bdebe54ff089375d5617bfdc4aT/AJAZZ-rat-n-ptico-inal-mbrico-AJ199-dispositivo-con-receptor-USB-2-4G-26000DPI-6-botones.jpg_640x640.jpg",
+        "precio": 100
+    },
+    {
+        "id": 60,
+        "name": "EC2-CW Wireless",
+        "descripcion": "Zowie By BenQ finally comes with wireless alternatives to their incredibly popular EC mice. The ZOWIE EC2-CW Wireless Mouse for Esports is designed to deliver reliable wireless performance at the highest levels of esports.",
+        "img": "https://image.benq.com/is/image/benqco/03-ec2-cw-back-left-45?$ResponsivePreset$&fmt=png-alpha",
+        "precio": 100
+    },
+    {
+        "id": 70,
+        "name": "LAMZU ATLANTIS MINI",
+        "descripcion": "Great build quality. No QC issues with my copy and I have put in about 80 hours on the mouse and everything feels great. No creaking or double clicks (set to 1 ms debouce) The product feels sturdy and very well balanced.",
+        "img": "https://ae01.alicdn.com/kf/S0e3e93355ad84e37b459372ca4b94074e/LAMZU-Atlantis-rat-n-cristal-Feets.jpg",
+        "precio": 100
+    },
+    {
+        "id": 80,
+        "name": "pulsar x2",
+        "descripcion": "Great build quality. No QC issues with my copy and I have put in about 80 hours on the mouse and everything feels great. No creaking or double clicks (set to 1 ms debouce) The product feels sturdy and very well balanced.",
+        "img": "https://gamersrd.com/wp-content/uploads/2022/09/Pulsar-X2-GRD-Review-1-1920x1176.jpg.webp",
+        "precio": 100
+    },
+    {
+        "id": 90,
+        "name": "viper v2 pro",
+        "descripcion": "Como sucesor del galardonado Razer Viper Ultimate, nuestra última evolución es más de un 20 % más ligera e incluye mejoras integrales que maximizan el rendimiento. Con uno de los ratones inalámbricos para juegos más.",
+        "img": "https://www.profesionalreview.com/wp-content/uploads/2022/05/Razer-Viper-V2-Pro-Review08.jpg",
+        "precio": 100
+    },
+    {
+        "id": 100,
+        "name": "razer deathadder v3 pro",
+        "descripcion": "Como sucesor del galardonado razer deathadder v3 pro, nuestra última evolución es más de un 20 % más ligera e incluye mejoras integrales que maximizan el rendimiento. Con uno de los ratones inalámbricos para juegos más.",
+        "img": "https://ae01.alicdn.com/kf/Sd4ea5543921140679c9902906d199ffbA/Razer-DeathAdder-V3-Pro-Sensor-ptico-de-30K-rat-n-ergon-mico-inal-mbrico-ultraligero-negro.jpg",
+        "precio": 100
+    }
+    
+]
