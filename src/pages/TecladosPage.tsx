@@ -22,18 +22,35 @@ export const TecladosPage = () => {
   }, [])
 
   return (
-    <Grid container sx={{ display: 'flex', justifyContent: 'space-around' }}>
-    <Grid item xs={5} sx={{ backgroundColor: 'lightgray', margin: '10px', padding: '12px', height: 'max-content', borderRadius: '20px' }}>
-      <h2 id='NewCat'>Listado de Categorias</h2>
-      {
-        teclados.slice(0, 100).map((teclados) => (
-          <>
-          <li key={teclados.name}>{teclados.name}</li>
-          </>
-        ))
-      }
-    </Grid>
-    </Grid>
+    <Grid container style={{display: "flex", justifyContent: "center", padding: "1rem"}}>
+    {teclados.map((teclados) => {
+    return(
+    <Card sx={{ maxWidth: 345, margin: "20px" }}>
+    <CardActionArea>
+      <CardMedia
+        component="img"
+        height="140"
+        image= {teclados.img}
+        alt=""
+      />
+      <CardContent>
+        <Typography gutterBottom variant="h5" component="div">
+          {teclados.name}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          {teclados.descripcion}
+        </Typography>
+      </CardContent>
+    </CardActionArea>
+    <CardActions>
+      <Button size="small" color="primary">
+        comprar
+      </Button>
+    </CardActions>
+  </Card>
+    )
+   })}
+   </Grid>
   )
 }
 

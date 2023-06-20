@@ -1,0 +1,37 @@
+[
+    {
+        "id": 10,
+        "name": "Wooting 60HE",
+        "descripcion": "We are now mass-producing the Wooting 60HE on a frequent cycle. You can find all the production batches and their status on the Batch info page.When you place an order, you'll be added to the first available batch with the earliest delivery.",
+        "precio": 200,
+        "img": "https://tecnolocura.es/wp-content/uploads/2021/10/Wooting-60HE-el-teclado-analogico-60-definitivo-TECNOLOCURA_3.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Keychron K2",
+        "descripcion": "Keychron is a new brand in the world of Mechanical Keyboards providing budget keyboards with great functionality. The K2 is a 75% Layout keyboard with ANSI Layout and a aluminium full case.",
+        "precio": 100,
+        "img": "https://ucarecdn.com/792142a2-81a8-45e0-bfb4-d91910285a62~4/nth/1/-/format/auto/-/quality/lighter/"
+    },
+    {
+        "id": 30,
+        "name": "GMMK PRO",
+        "descripcion": "GMMK PRO is an ultra premium, gasket-mounted 75% layout keyboard built for enthusiasts, gamers, and professionals.",
+        "precio": 120,
+        "img": "https://www.coolmod.com/images/product/large/Glorious-PC-Gaming-Race-GMMK-Pro-White-Ice-TKL-ISO-Teclado-2.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Mountain Everest 60",
+        "descripcion": "MOUNTAIN crea hardware y software innovador y de primera calidad con un diseño centrado en el usuario que permite a los jugadores y creadores de contenido lograr el máximo rendimiento. Nuestra visión es para los jugadores y creadores de contenido para tener lo que necesitan para sobresalir a través de la innovación intransigente, pionera Diseño, calidad suprema y personalización.",
+        "precio": 80,
+        "img": "https://www.coolmod.com/images/product/large/PROD-019682_1.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Corsair K70 PRO Mini",
+        "descripcion": "El teclado mecánico para juegos CORSAIR K70 PRO MINI WIRELESS RGB 60% es grande tanto en rendimiento como en personalización. Está equipado con la tecnología ultrarrápida SLIPSTREAM WIRELESS inferior a 1 ms e interruptores de teclas CHERRY MX en formato portátil.",
+        "precio": 170,
+        "img": "https://www.coolmod.com/images/product/large/PROD-022888_1.jpg"
+    }
+]

@@ -4,3 +4,45 @@
     margin: 0;
   }
 
+
+
+#estilo {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  margin: 20px 30px;
+  padding: 0px 30px;
+}
+
+#nose {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  margin: 20px 30px;
+  padding: 0px 30px;
+}
+
+#button-openform{
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+main#home{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+main#home h1{
+  width: 100%;
+  text-align: center;
+  padding: 4rem;
+}
+
+main#home p {
+  width: 100%;
+  text-align: center;
+}
